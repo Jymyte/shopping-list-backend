@@ -1,0 +1,7 @@
+POST  http://localhost/shopping_list/update.php/
+
+{
+  "id": 1,
+  "description" : "testo2 item",
+  "amount": 3
+}

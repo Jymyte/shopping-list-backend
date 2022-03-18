@@ -1,0 +1,4 @@
+POST  http://localhost/shopping_list/delete.php/
+
+
+{"id":"1"}

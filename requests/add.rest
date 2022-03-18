@@ -1,0 +1,6 @@
+POST  http://localhost/shopping_list/add.php/
+
+{
+  "description": "restillä syötetty",
+  "amount": 69
+}
